@@ -22,7 +22,7 @@ namespace ConsoleApp55
                 for(int k=1;k<=p;k++)
                 {
                     Console.Write("*");
-                    Console.Write("*");
+                    Console.Write("");
 
                 }
                 p = p - 1;
