@@ -23,6 +23,7 @@ namespace ConsoleApp55
                 {
                     Console.Write("*");
                     Console.Write("*");
+                    Console.Write(" ");
                     Console.Write("");
 
                 }
